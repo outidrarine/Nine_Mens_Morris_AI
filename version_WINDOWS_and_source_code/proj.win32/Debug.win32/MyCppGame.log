@@ -1,0 +1,5 @@
+﻿AppDelegate.obj : warning LNK4075: ' /EDITANDCONTINUE' ignoré à cause de la spécification '/SAFESEH'
+     Création de la bibliothèque C:\cocos\MyCppGame\proj.win32\Debug.win32\MyCppGame.lib et de l'objet C:\cocos\MyCppGame\proj.win32\Debug.win32\MyCppGame.exp
+  MyCppGame.vcxproj -> C:\cocos\MyCppGame\proj.win32\Debug.win32\MyCppGame.exe
+  Performing Custom Build Step
+  0 fichier(s) copié(s)

@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1554715387 source:c:\users\sony\desktop\genie_infor s2\résolution de problèmes\jeu_de_moulin\main.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	"Board.h"
+
+1554897421 source:c:\users\sony\desktop\genie_infor s2\résolution de problèmes\jeu_de_moulin\src\board.cpp
+	"Board.h"
+	"Player.h"
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	"vector"
+	<stdlib.h>
+
+1554891705 c:\users\sony\desktop\genie_infor s2\résolution de problèmes\jeu_de_moulin\include\board.h
+	"vector"
+	<stdlib.h>
+
+1554896030 source:c:\users\sony\desktop\genie_infor s2\résolution de problèmes\jeu_de_moulin\src\player.cpp
+	"Player.h"
+	"Board.h"
+	"vector"
+	<algorithm>
+	<stdlib.h>
+	<iostream>
+
+1554893005 c:\users\sony\desktop\genie_infor s2\résolution de problèmes\jeu_de_moulin\include\player.h
+
+1554715387 source:c:\users\sony\desktop\genie_infor s2\résolution de problèmes\jeu_de_moulin_alphabeta\main.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	"Board.h"
+
+1554891705 c:\users\sony\desktop\genie_infor s2\résolution de problèmes\jeu_de_moulin_alphabeta\include\board.h
+	"vector"
+	<stdlib.h>
+
+1556460196 source:c:\users\sony\desktop\genie_infor s2\résolution de problèmes\jeu_de_moulin_alphabeta\src\board.cpp
+	"Board.h"
+	"Player.h"
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	"vector"
+	<stdlib.h>
+
+1556460097 c:\users\sony\desktop\genie_infor s2\résolution de problèmes\jeu_de_moulin_alphabeta\include\player.h
+
+1556460149 source:c:\users\sony\desktop\genie_infor s2\résolution de problèmes\jeu_de_moulin_alphabeta\src\player.cpp
+	"Player.h"
+	"Board.h"
+	"vector"
+	<algorithm>
+	<stdlib.h>
+	<iostream>
+
