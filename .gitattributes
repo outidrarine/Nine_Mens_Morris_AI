@@ -1,2 +1,0 @@
-version_WINDOWS_and_source_code/proj.win32/ filter=lfs diff=lfs merge=lfs -text
-*.pdb filter=lfs diff=lfs merge=lfs -text
