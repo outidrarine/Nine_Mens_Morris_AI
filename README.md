@@ -1,4 +1,4 @@
-# Nine Mens Morris AI
+# Nine Mens Morris AI ![GitHub repo size](https://img.shields.io/github/repo-size/outidrarine/Nine_Mens_Morris.svg)
 A simple AI for Nine Mens Morris game using minimax and alphabeta pruning search algorithms and cocos2d framework 
 
 ![game interface](./presentation_pictures/interface.png)
